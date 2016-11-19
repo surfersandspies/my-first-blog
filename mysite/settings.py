@@ -25,7 +25,7 @@ SECRET_KEY = '47@h)v$jfq9#!p_oi8@snekh76)r+$fuybt%2c@96_b^x-h9be'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['surfersandspies.pythonanywhere.com']
 
 
 # Application definition
